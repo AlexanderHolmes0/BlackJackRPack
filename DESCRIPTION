@@ -1,0 +1,11 @@
+Package: BlackJackPack
+Title: BlackJack Helper Game Functions
+Version: 0.0.0.9000
+Authors@R: 
+    person("Alex", "Holmes", , "aholme27@vols.utk.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The R package provides a comprehensive set of functions for simulating a game of blackjack, enabling users to deal cards to players and dealers, update point totals based on game outcomes, determine whether players should continue drawing cards, and compare the hands of players and dealers to determine game results. These functions facilitate the creation of blackjack simulations for analysis and entertainment purposes within the R environment.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
