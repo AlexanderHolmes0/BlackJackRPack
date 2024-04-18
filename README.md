@@ -9,7 +9,7 @@ This package provides a set of functions to simulate a game of Blackjack in R. I
 You can install this package from GitHub using the `devtools` package:
 
 ```r
-devtools::install_github("AlexanderHolmes0/BlackJackPack")
+devtools::install_github("AlexanderHolmes0/BlackJackRPack")
 ```
 
 ## Usage
