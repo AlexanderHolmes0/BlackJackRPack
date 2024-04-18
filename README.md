@@ -1,5 +1,7 @@
 # BlackJackPack R Package
 
+[![R](https://github.com/AlexanderHolmes0/BlackJackRPack/actions/workflows/r.yml/badge.svg)](https://github.com/AlexanderHolmes0/BlackJackRPack/actions/workflows/r.yml)
+
 ## Introduction
 
 This package provides a set of functions to simulate a game of Blackjack in R. It includes functions to create a deck of playing cards, deal cards to the dealer and player, allow players to hit and update their points, determine if the player or dealer has won, and compare hands to determine the winner.
@@ -40,4 +42,3 @@ user_dealer_comparison(player_hand, dealer_hand)
 ## Have Fun!
 
 Check out the BlackJack Shiny App to play a game of Blackjack using this package!
-
